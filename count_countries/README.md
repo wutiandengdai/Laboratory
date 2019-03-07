@@ -1,6 +1,7 @@
 <p>Description: <br>
     Count countries<br>
     Given a random 2 dimension matrix, if A[i][j]=A[i+-1]A[j] or A[i][j]=A[i]A[j+-1], the two value considered to be in the same country.<br>
+    While A[i][j]=A[i+-1][j+-1] would be not considered to be the same country.<br>
 </p>
 
 <p>Test cases:<br>
